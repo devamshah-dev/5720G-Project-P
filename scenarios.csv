@@ -1,0 +1,6 @@
+location,time,touch_pattern_base,scenario_text
+Ontario Tech University,10,0.51,"Initial State: Normal User Data"
+Public Cafe,11,0.52,"Scenario 1: User is at a public cafe"
+Durham College,14,0.45,"Scenario 2: Anomalous touch detected!"
+Public Library,3,0.18,"Scenario 3: Access at an unusual time"
+Home,17,0.52,"Scenario 4: Context returns to normal"
